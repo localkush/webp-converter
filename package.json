@@ -1,0 +1,14 @@
+{
+  "name": "webp-converter",
+  "version": "1.0.0",
+  "description": "A tool to convert JPG/PNG images to WebP format",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "sharp": "^0.33.1",
+    "glob": "^10.3.10",
+    "fs-extra": "^11.2.0"
+  }
+} 
